@@ -1,1 +1,15 @@
-{"name": "master", "repository": "origin", "branch-type": "branch", "platforms": [], "branch_type": "branch", "subtrees": []}
+{
+  "name": "master", 
+  "repository": "origin", 
+  "branch-type": "branch", 
+  "platforms": [], 
+  "branch_type": "branch", 
+  "subtrees": [
+    {
+      "path": "./", 
+      "remote": "origin", 
+      "name": "lemonade", 
+      "branch": "lemon"
+    }
+  ]
+}
