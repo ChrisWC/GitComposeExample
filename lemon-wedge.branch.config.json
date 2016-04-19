@@ -1,12 +1,6 @@
 {
   "remote": "origin", 
   "subtrees": [
-    {
-      "path": "./", 
-      "remote": "origin", 
-      "name": "lemon-wedge", 
-      "branch": "lemon-wedge"
-    }
   ], 
   "branch-type": "module", 
   "platforms": [], 
