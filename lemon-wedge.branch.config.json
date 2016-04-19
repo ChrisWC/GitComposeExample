@@ -1,8 +1,15 @@
 {
-  "release-type": "development", 
-  "subtrees": [], 
+  "remote": "origin", 
+  "subtrees": [
+    {
+      "path": "./", 
+      "remote": "origin", 
+      "name": "lemon-wedge", 
+      "branch": "lemon-wedge"
+    }
+  ], 
   "branch-type": "module", 
   "platforms": [], 
-  "remote": "origin", 
+  "release-type": "development", 
   "name": "lemon-wedge"
 }
