@@ -5,11 +5,5 @@
   "platforms": [], 
   "branch_type": "branch", 
   "subtrees": [
-    {
-      "path": "./", 
-      "remote": "origin", 
-      "name": "lemonade", 
-      "branch": "lemon"
-    }
   ]
 }

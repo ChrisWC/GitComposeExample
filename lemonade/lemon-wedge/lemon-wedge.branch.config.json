@@ -1,9 +1,0 @@
-{
-  "remote": "origin", 
-  "subtrees": [
-  ], 
-  "branch-type": "module", 
-  "platforms": [], 
-  "release-type": "development", 
-  "name": "lemon-wedge"
-}
