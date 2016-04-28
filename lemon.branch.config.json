@@ -1,6 +1,12 @@
 {
-  "remote": "origin", 
+  "release-type": "development", 
   "subtrees": [
+    {
+      "path": "./", 
+      "remote": "origin", 
+      "name": "s0", 
+      "branch": "seed"
+    }
   ], 
   "branch-type": "module", 
   "platforms": [], 
@@ -8,6 +14,6 @@
     "remote": "origin", 
     "branch": "lemon"
   }, 
-  "release-type": "development", 
+  "remote": "origin", 
   "name": "lemon"
 }
