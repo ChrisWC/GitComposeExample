@@ -1,12 +1,19 @@
 {
-  "release-type": "development", 
-  "subtrees": [], 
+  "remote": "origin", 
+  "subtrees": [
+    {
+      "path": "./", 
+      "remote": "origin", 
+      "name": "s0", 
+      "branch": "seed"
+    }
+  ], 
   "branch-type": "module", 
   "platforms": [], 
   "upstream": {
     "remote": "origin", 
     "branch": "lemon"
   }, 
-  "remote": "origin", 
+  "release-type": "development", 
   "name": "lemon"
 }
