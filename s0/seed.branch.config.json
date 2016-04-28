@@ -1,0 +1,12 @@
+{
+  "release-type": "development", 
+  "subtrees": [], 
+  "branch-type": "module", 
+  "platforms": [], 
+  "upstream": {
+    "remote": "origin", 
+    "branch": "seed"
+  }, 
+  "remote": "origin", 
+  "name": "seed"
+}
