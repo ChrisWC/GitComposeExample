@@ -1,12 +1,6 @@
 {
   "remote": "origin", 
   "subtrees": [
-    {
-      "path": "./s0/", 
-      "remote": "origin", 
-      "name": "m0", 
-      "branch": "mol"
-    }
   ], 
   "branch-type": "module", 
   "platforms": [], 
